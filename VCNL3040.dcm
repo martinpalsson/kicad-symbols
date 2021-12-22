@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VCNL3040
+D VCNL3040 proximity sensor
+K proximity VCNL3040 Vishay
+F https://www.farnell.com/datasheets/2856448.pdf
+$ENDCMP
+#
+#End Doc Library
